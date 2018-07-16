@@ -1,0 +1,4 @@
+# Ignore file named 'README.txt'
+README.txt
+# Ignore files from node module
+node_modules
