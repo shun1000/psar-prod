@@ -1,0 +1,13 @@
+.outtaHere {
+	position:absolute;
+	left:-3000px;
+}
+/*Checkboxes*/
+.checkboxArea, .checkboxAreaChecked {
+	float:left;
+	width:15px !important;
+	height:15px;
+	overflow: hidden;
+	background: url(../images/checkbox.gif) no-repeat;
+}
+.checkboxAreaChecked {background-position: 0 -15px;}
